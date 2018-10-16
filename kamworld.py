@@ -5,6 +5,7 @@ if race == "human":
     print("     MM     ")
     print("    /..\ |  ")
     print("    \--/ |  ")
+    print("     WW  |  ")
     print("     |   |  ")
     print("  *--+---+  ")
     print("     |   |  ")
